@@ -11,4 +11,4 @@ Please open the R scripts starting with "Figure", set working directories on the
 
 The scripts are configured to used relative paths on any system (Linux, Windows, MacOS) to load data.
 
-If you have any problems running the scripts, please ask grabowski(at)tu-berlin(dot)berlin.
+If you have any problems running the scripts, please ask grabowski(at)tu-berlin(dot)de
